@@ -1,5 +1,4 @@
-/build/
-# artifacts of the VSCode plugin
-/reach
-/.vscode
-/.reach
+./build/
+./reach
+./.vscode
+./.reach
